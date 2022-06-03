@@ -252,4 +252,7 @@ i.menu-mobile {
     .carousel-control-next{
         margin-right: 0;
     }
+    [data-anime="right"]{
+        transform: translate3d(-100%, 0, 0);
+    }
 }
